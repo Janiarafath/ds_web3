@@ -4,17 +4,6 @@ This folder contains the submission for the Trader-Sentiment assignment.
  
 colab live link:https://colab.research.google.com/drive/1kqggdQJKYVIcP1j7lGUPNLv_OmsOJLp0?usp=sharing
 
-Structure:
-
-ds_jani_arafath/
-├── notebook_1.ipynb
-├── notebook_2.ipynb
-├── csv_files/
-│   └── *.csv
-├── outputs/
-│   └── *.png
-├── ds_report.pdf
-└── README.md
 
 How to reproduce:
 1. Upload `first.ipynb` in Google Colab or open above google link directly.
